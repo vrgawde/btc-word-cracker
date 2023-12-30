@@ -1,0 +1,6 @@
+wheel
+Cmake
+requests
+bip_utils
+python-dotenv
+discord-webhook
